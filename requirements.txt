@@ -5,5 +5,5 @@ pandas==2.2.1
 pyngrok==5.3.0  # Only needed if using Colab
 jupyterlab>=4.0.0  # Optional, useful if running in Jupyter locally
 
-##Run this code in your environment to install the requirements##
-pip install -r requirements.txt
+#Run this code in your environment to install the requirements
+#pip install -r requirements.txt
