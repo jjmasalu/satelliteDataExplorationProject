@@ -1,4 +1,4 @@
-name: satellite-data-exploration-project
+name: satelliteDataExplorationProject
 channels:
   - conda-forge
   - defaults
@@ -8,5 +8,6 @@ dependencies:
   - dash-bootstrap-components=1.5.0
   - plotly=5.19.0
   - pandas=2.2.1
-  - pyngrok=5.3.0
+  - conda-forge::pyngrok=5.3.0
   - jupyterlab>=4.0.0
+  
